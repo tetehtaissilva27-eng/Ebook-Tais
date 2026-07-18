@@ -1,1 +1,1 @@
-Ebook Tais
+Melhoria no design e responsividade da landing page
